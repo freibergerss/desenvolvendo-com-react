@@ -1,0 +1,23 @@
+.footer{
+    box-sizing: border-box;
+    display:flex;
+    max-width: 100%;
+    height: 200px;
+    padding: 64px;
+    margin: 80px 0 0;
+    background-color: #6278f7;
+    background-image: url('/images/fundo.png');
+    background-size: 800px;
+    color:#FFF;
+    font-size: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer ul{
+    display: flex;
+    gap: 16px;
+    list-style: none;
+}
+
+
