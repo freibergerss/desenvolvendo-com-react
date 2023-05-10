@@ -1,0 +1,19 @@
+.button{
+    text-align: center;
+}
+
+.button .submit-button {
+    width: 50%;
+    height: 56px;
+    padding: 4px;
+    font-size: 20px;
+}
+
+.button .submit-button:hover{
+    background-color: #ffcd00;
+    border: 3px solid  #365abc;
+    border-radius: 8px;
+    color: #365abc;
+    font-weight: bolder;
+    transition: all 0.2ms linear;
+}
